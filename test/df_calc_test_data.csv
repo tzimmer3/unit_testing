@@ -1,0 +1,6 @@
+﻿x values,y values,add expectation,subtract expectation,multiply expectation,divide expectation
+10,5,15,5,50,2
+-1,1,0,-2,-1,-1
+-1,-1,-2,0,1,1
+5,2,7,3,10,2.5
+10,0,10,10,0,0
